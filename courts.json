@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Hoop 1",
+    "lat": 40.7128,
+    "lng": -74.0060,
+    "net_status": true
+  },
+  {
+    "name": "Hoop 2",
+    "lat": 40.7122,
+    "lng": -74.0437,
+    "net_status": false
+  },
+  {
+    "name": "Hoop 3",
+    "net_status": false
+  }
+]
